@@ -1,0 +1,14 @@
+
+
+Also, this will go up a directory and then back down to another subfolder.
+
+<a href = "../subfolder/page.html">link</a>
+
+To go up multiple directories you can do this.
+
+<a href = "../../page.html">link</a>
+
+To go the root, I use this
+
+<a href = "~/page.html">link</a>
+
